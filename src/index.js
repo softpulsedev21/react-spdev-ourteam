@@ -1,6 +1,6 @@
 import React from 'react'
-import styles from './styles.module.css'
+import OurTeam from './OurTeam'
 
-export const ExampleComponent = ({ text }) => {
-  return <div className={styles.test}>Example Component: {text}</div>
+export const OurTeamComponent = () => {
+  return <OurTeam />
 }
