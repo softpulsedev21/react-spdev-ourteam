@@ -29,6 +29,13 @@ export default App;
 ```
 
 
+
+## Check how it looks
+
+![image](https://user-images.githubusercontent.com/102580245/185580987-b24fff40-9f02-4d21-b534-eb82fe95a8a8.png)
+
+
+
 ## Css
 
 > Add below css to your css files like index.css or app.css
@@ -155,11 +162,6 @@ ul.slick-dots {
 .slick-slider .slick-slide {
 	padding: 0 15px;
 }
-
-
-## Check how it looks
-
-![image](https://user-images.githubusercontent.com/102580245/185580987-b24fff40-9f02-4d21-b534-eb82fe95a8a8.png)
 
 
 
