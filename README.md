@@ -157,6 +157,12 @@ ul.slick-dots {
 }
 
 
+## Check how it looks
+
+![image](https://user-images.githubusercontent.com/102580245/185580987-b24fff40-9f02-4d21-b534-eb82fe95a8a8.png)
+
+
+
 ## License
 
 MIT © [softpulsedev21](https://github.com/softpulsedev21)
